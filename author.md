@@ -112,7 +112,7 @@ Afterwards, we're ready for the actual review phase, which will happen in a sepa
 
 ### Review phase
 
-The reviewers will do there work and read and constructively criticize your paper and the corresponding code repository. The idea is to bring your submission into the best shape possible. Once the reviews are in, **you** should address the raised points, e.g. by making corrections, clarifying things, or fixing bugs. The revised submission will then be reviewed (at least) once more by the reviewers until they endorse your work for publication.
+The reviewers will do their work and read and constructively criticize your paper and the corresponding code repository. The idea is to bring your submission into the best shape possible. Once the reviews are in, **you** should address the raised points, e.g. by making corrections, clarifying things, or fixing bugs. The revised submission will then be reviewed (at least) once more by the reviewers until they endorse your work for publication.
 
 ### Publication phase
 
